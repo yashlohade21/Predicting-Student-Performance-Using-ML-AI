@@ -31,7 +31,7 @@ The Student Exam Performance Predictor project is developed for educational purp
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/skprasad117/Predicting-Student-Performance-Using-Machine-Learning.git`
+1. Clone the repository: `git clone https://github.com/yashlohade21/Predicting-Student-Performance-Using-ML-AI.git`
 2. Navigate to the project directory: `cd Predicting-Student-Performance-Using-Machine-Learning`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
@@ -91,10 +91,3 @@ The project has the following structure:
 Yash Lohade, You can also visit my GitHub profile: @yashlohade21
 
 Feel free to reach out with any questions or feedback regarding the project.
-
-
-
-
-
-
-
