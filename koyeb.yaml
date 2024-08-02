@@ -1,0 +1,5 @@
+# koyeb.yaml
+services:
+  your-service-name:
+    image: your-image-name
+    run: gunicorn app:app --bind 0.0.0.0:5000
